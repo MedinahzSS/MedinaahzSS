@@ -47,7 +47,7 @@ em suas telagens, que contem várias funções, como:
 #### `<img width="2%" src="https://simpleicons.org/icons/termius.svg">`{=html}  Após parear e conectar corretamente, só rodar o código que irá baixar e executar o scanner.
 
 ``` sh
-❯ pkg install git php android-tools -y && rm -rf MedinahzSS-Android && git clone https://github.com/kellerzz/MedinahzSS-Android && cd MedinahzSS-Android && php MedinahzSS.php
+❯ pkg install git php android-tools -y && git clone https://github.com/MedinahzSS/MedinaahzSS
 ```
 
 `<img src="https://i.imgur.com/NnWf7Fm.png" alt="line break" width="100%" height="3px">`{=html}
